@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483413216880",
+    "project_id": "uima-app",
+    "storage_bucket": "uima-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483413216880:android:b3abc669627c0a2cbaaeb5",
+        "android_client_info": {
+          "package_name": "com.example.teamd_donationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483413216880-v3bov89t36290fv734ae0ud37h0blgr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgi-fb1uEB6M79ZurBT0SZCpANsnV8zdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483413216880-v3bov89t36290fv734ae0ud37h0blgr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

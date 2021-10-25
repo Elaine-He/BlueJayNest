@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Category" >
+        <menu>
+            <item
+                app:actionLayout="@layout/checklist"
+                android:id="@+id/nav_checklist"
+                android:title=""
+                />
+        </menu>
+    </item>
+    <item android:title="Distance">
+        <menu>
+            <item
+                app:actionLayout="@layout/radio_button"
+                android:id="@+id/nav_radios"
+                android:title=""
+                />
+        </menu>
+    </item>
+</menu>
